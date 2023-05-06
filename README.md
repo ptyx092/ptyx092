@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ptyx
 - 👀 I’m interested in mobile os, hybrid develepment, etc
-- 🌱 I’m currently learning rust
 - 💞️ I like badminton and yoga
 - 📫 How to reach me ..., pls via inmail
 
